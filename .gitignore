@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Input Files
+*.csv
+*.txt
+
+# Qt User Profile Files
+*.user
